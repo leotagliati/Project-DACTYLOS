@@ -35,4 +35,3 @@ Inicialize os microsserviços, o barramento e o front.
 [Leonardo H.D.Moura](https://github.com/LeonardoHDMoura )<br>        RA: 21.01837-5
 [Leonardo Tagliati da Silva](https://github.com/leotagliati)<br>     RA: 22.00170-0
 [Michelle Mitie Hamazaki](https://github.com/Michelle-Hmzk)          RA: 20.00539-3
->>>>>>> ab3efef0e4dffaefacf2aaed0b7a952279394fbc
